@@ -1,3 +1,6 @@
+> [!NOTE]
+> This is a fork of [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats). For the original project, please visit the upstream repository.
+
 <div align="center">
   <img src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" width="100px" alt="GitHub Readme Stats" />
   <h1 style="font-size: 28px; margin: 10px 0;">GitHub Readme Stats</h1>
@@ -5,23 +8,23 @@
 </div>
 
 <p align="center">
-  <a href="https://github-readme-stats-eight-phi-87.vercel.app/actions">
-    <img alt="Tests Passing" src="https://github-readme-stats-eight-phi-87.vercel.app/workflows/Test/badge.svg" />
+  <a href="https://github.com/revanapriyandi/github-readme-stats/actions">
+    <img alt="Tests Passing" src="https://github.com/revanapriyandi/github-readme-stats/workflows/Test/badge.svg" />
   </a>
-  <a href="https://github-readme-stats-eight-phi-87.vercel.app/graphs/contributors">
-    <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/anuraghazra/github-readme-stats" />
+  <a href="https://github.com/revanapriyandi/github-readme-stats/graphs/contributors">
+    <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/revanapriyandi/github-readme-stats" />
   </a>
-  <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
-    <img alt="Tests Coverage" src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
+  <a href="https://codecov.io/gh/revanapriyandi/github-readme-stats">
+    <img alt="Tests Coverage" src="https://codecov.io/gh/revanapriyandi/github-readme-stats/branch/master/graph/badge.svg" />
   </a>
-  <a href="https://github-readme-stats-eight-phi-87.vercel.app/issues">
-    <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
+  <a href="https://github.com/revanapriyandi/github-readme-stats/issues">
+    <img alt="Issues" src="https://img.shields.io/github/issues/revanapriyandi/github-readme-stats?color=0088ff" />
   </a>
-  <a href="https://github-readme-stats-eight-phi-87.vercel.app/pulls">
-    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
+  <a href="https://github.com/revanapriyandi/github-readme-stats/pulls">
+    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/revanapriyandi/github-readme-stats?color=0088ff" />
   </a>
-  <a href="https://securityscorecards.dev/viewer/?uri=github.com/anuraghazra/github-readme-stats">
-    <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/anuraghazra/github-readme-stats/badge" />
+  <a href="https://securityscorecards.dev/viewer/?uri=github.com/revanapriyandi/github-readme-stats">
+    <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/revanapriyandi/github-readme-stats/badge" />
   </a>
   <br />
   <br />
@@ -33,13 +36,13 @@
 <p align="center">
   <a href="#all-demos">View Demo</a>
   ·
-  <a href="https://github-readme-stats-eight-phi-87.vercel.app/issues/new?assignees=&labels=bug&projects=&template=bug_report.yml">Report Bug</a>
+  <a href="https://github.com/revanapriyandi/github-readme-stats/issues/new?assignees=&labels=bug&projects=&template=bug_report.yml">Report Bug</a>
   ·
-  <a href="https://github-readme-stats-eight-phi-87.vercel.app/issues/new?assignees=&labels=enhancement&projects=&template=feature_request.yml">Request Feature</a>
+  <a href="https://github.com/revanapriyandi/github-readme-stats/issues/new?assignees=&labels=enhancement&projects=&template=feature_request.yml">Request Feature</a>
   ·
-  <a href="https://github-readme-stats-eight-phi-87.vercel.app/discussions/1770">FAQ</a>
+  <a href="https://github.com/revanapriyandi/github-readme-stats/discussions/1770">FAQ</a>
   ·
-  <a href="https://github-readme-stats-eight-phi-87.vercel.app/discussions/new?category=q-a">Ask Question</a>
+  <a href="https://github.com/revanapriyandi/github-readme-stats/discussions/new?category=q-a">Ask Question</a>
 </p>
 
 
@@ -99,12 +102,12 @@
 # Important Notices <!-- omit in toc -->
 
 > [!IMPORTANT]
-> The public Vercel instance at `https://github-readme-stats.vercel.app/api` is best-effort and can be unreliable due to rate limits and traffic spikes (see [#1471](https://github-readme-stats-eight-phi-87.vercel.app/issues/1471)). We use caching to improve stability (see [common options](#common-options)), but for reliable cards we recommend [self-hosting](#deploy-on-your-own) (Vercel or other) or using the [GitHub Actions workflow](#github-actions-recommended) to generate cards in your [profile repository](https://docs.github.com/en/account-and-profile/how-tos/profile-customization/managing-your-profile-readme).
+> The public Vercel instance at `https://github-readme-stats.vercel.app/api` is best-effort and can be unreliable due to rate limits and traffic spikes (see [#1471](https://github.com/revanapriyandi/github-readme-stats/issues/1471)). We use caching to improve stability (see [common options](#common-options)), but for reliable cards we recommend [self-hosting](#deploy-on-your-own) (Vercel or other) or using the [GitHub Actions workflow](#github-actions-recommended) to generate cards in your [profile repository](https://docs.github.com/en/account-and-profile/how-tos/profile-customization/managing-your-profile-readme).
 
 <img alt="Uptime Badge" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgithub-readme-stats-git-monitoring-github-readme-stats-team.vercel.app%2Fapi%2Fstatus%2Fup%3Ftype%3Dshields">
 
 > [!IMPORTANT]
-> We're a small team, and to prioritize, we rely on upvotes :+1:. We use the Top Issues dashboard for tracking community demand (see [#1935](https://github-readme-stats-eight-phi-87.vercel.app/issues/1935)). Do not hesitate to upvote the issues and pull requests you are interested in. We will work on the most upvoted first.
+> We're a small team, and to prioritize, we rely on upvotes :+1:. We use the Top Issues dashboard for tracking community demand (see [#1935](https://github.com/revanapriyandi/github-readme-stats/issues/1935)). Do not hesitate to upvote the issues and pull requests you are interested in. We will work on the most upvoted first.
 
 # GitHub Stats Card
 
@@ -113,14 +116,14 @@ Copy and paste this into your markdown, and that's it. Simple!
 Change the `?username=` value to your GitHub username.
 
 ```md
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github-readme-stats-eight-phi-87.vercel.app)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/revanapriyandi/github-readme-stats)
 ```
 
 > [!WARNING]
 > By default, the stats card only shows statistics like stars, commits, and pull requests from public repositories. To show private statistics on the stats card, you should [deploy your own instance](#deploy-on-your-own) using your own GitHub API token.
 
 > [!NOTE]
-> Available ranks are S (top 1%), A+ (12.5%), A (25%), A- (37.5%), B+ (50%), B (62.5%), B- (75%), C+ (87.5%) and C (everyone). This ranking scheme is based on the [Japanese academic grading](https://wikipedia.org/wiki/Academic_grading_in_Japan) system. The global percentile is calculated as a weighted sum of percentiles for each statistic (number of commits, pull requests, reviews, issues, stars, and followers), based on the cumulative distribution function of the [exponential](https://wikipedia.org/wiki/exponential_distribution) and the [log-normal](https://wikipedia.org/wiki/Log-normal_distribution) distributions. The implementation can be investigated at [src/calculateRank.js](https://github-readme-stats-eight-phi-87.vercel.app/blob/master/src/calculateRank.js). The circle around the rank shows 100 minus the global percentile.
+> Available ranks are S (top 1%), A+ (12.5%), A (25%), A- (37.5%), B+ (50%), B (62.5%), B- (75%), C+ (87.5%) and C (everyone). This ranking scheme is based on the [Japanese academic grading](https://wikipedia.org/wiki/Academic_grading_in_Japan) system. The global percentile is calculated as a weighted sum of percentiles for each statistic (number of commits, pull requests, reviews, issues, stars, and followers), based on the cumulative distribution function of the [exponential](https://wikipedia.org/wiki/exponential_distribution) and the [log-normal](https://wikipedia.org/wiki/Log-normal_distribution) distributions. The implementation can be investigated at [src/calculateRank.js](https://github.com/revanapriyandi/github-readme-stats/blob/master/src/calculateRank.js). The circle around the rank shows 100 minus the global percentile.
 
 ### Hiding individual stats
 
@@ -178,8 +181,8 @@ You can look at a preview for [all available themes](themes/README.md) or checko
 
 #### Responsive Card Theme
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github-readme-stats-eight-phi-87.vercel.app#responsive-card-theme#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra\&show_icons=true\&theme=default#gh-light-mode-only)](https://github-readme-stats-eight-phi-87.vercel.app#responsive-card-theme#gh-light-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/revanapriyandi/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/revanapriyandi/github-readme-stats#responsive-card-theme#gh-light-mode-only)
 
 Since GitHub will re-upload the cards and serve them from their [CDN](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/about-anonymized-urls), we can not infer the browser/GitHub theme on the server side. There are, however, four methods you can use to create dynamics themes on the client side.
 
@@ -218,15 +221,15 @@ You can use the `bg_color` parameter to make any of [the available themes](theme
 You can use [GitHub's theme context](https://github.blog/changelog/2021-11-24-specify-theme-context-for-images-in-markdown/) tags to switch the theme based on the user GitHub theme automatically. This is done by appending `#gh-dark-mode-only` or `#gh-light-mode-only` to the end of an image URL. This tag will define whether the image specified in the markdown is only shown to viewers using a light or a dark GitHub theme:
 
 ```md
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github-readme-stats-eight-phi-87.vercel.app#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github-readme-stats-eight-phi-87.vercel.app#gh-light-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/revanapriyandi/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/revanapriyandi/github-readme-stats#gh-light-mode-only)
 ```
 
 <details>
 <summary>:eyes: Show example</summary>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github-readme-stats-eight-phi-87.vercel.app#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra\&show_icons=true\&theme=default#gh-light-mode-only)](https://github-readme-stats-eight-phi-87.vercel.app#gh-light-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/revanapriyandi/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/revanapriyandi/github-readme-stats#gh-light-mode-only)
 
 </details>
 
@@ -285,7 +288,7 @@ You can customize the appearance of all your cards however you wish with URL par
 | `border_radius` | Corner rounding on the card. | number | `4.5` |
 
 > [!WARNING]
-> We use caching to decrease the load on our servers (see <https://github-readme-stats-eight-phi-87.vercel.app/issues/1471#issuecomment-1271551425>). Our cards have the following default cache hours: stats card - 24 hours, top languages card - 144 hours (6 days), pin card - 240 hours (10 days), gist card - 48 hours (2 days), and wakatime card - 24 hours. If you want the data on your cards to be updated more often you can [deploy your own instance](#deploy-on-your-own) and set [environment variable](#available-environment-variables) `CACHE_SECONDS` to a value of your choosing.
+> We use caching to decrease the load on our servers (see <https://github.com/revanapriyandi/github-readme-stats/issues/1471#issuecomment-1271551425>). Our cards have the following default cache hours: stats card - 24 hours, top languages card - 144 hours (6 days), pin card - 240 hours (10 days), gist card - 48 hours (2 days), and wakatime card - 24 hours. If you want the data on your cards to be updated more often you can [deploy your own instance](#deploy-on-your-own) and set [environment variable](#available-environment-variables) `CACHE_SECONDS` to a value of your choosing.
 
 ##### Gradient in bg\_color
 
@@ -407,7 +410,7 @@ Copy-paste this code into your readme and change the links.
 Endpoint: `api/pin?username=anuraghazra&repo=github-readme-stats`
 
 ```md
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github-readme-stats-eight-phi-87.vercel.app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/revanapriyandi/github-readme-stats)
 ```
 
 ### Options
@@ -471,7 +474,7 @@ The top languages card shows a GitHub user's most frequently used languages.
 > This card shows language usage only inside your own non-forked repositories, not depending on who the author of the commits is. It does not include your contributions into another users/organizations repositories. Currently there are no way to get this data from GitHub API. If you want this behavior to be improved you can support [this feature request](https://github.com/orgs/community/discussions/18230) created by [@rickstaa](https://github.com/rickstaa) inside GitHub Community.
 
 > [!WARNING]
-> Currently this card shows data only about first 100 repositories. This is because GitHub API limitations which cause downtimes of public instances (see [#1471](https://github-readme-stats-eight-phi-87.vercel.app/issues/1471)). In future this behavior will be improved by releasing GitHub action or providing environment variables for user's own instances.
+> Currently this card shows data only about first 100 repositories. This is because GitHub API limitations which cause downtimes of public instances (see [#1471](https://github.com/revanapriyandi/github-readme-stats/issues/1471)). In future this behavior will be improved by releasing GitHub action or providing environment variables for user's own instances.
 
 ### Usage
 
@@ -480,7 +483,7 @@ Copy-paste this code into your readme and change the links.
 Endpoint: `api/top-langs?username=anuraghazra`
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github-readme-stats-eight-phi-87.vercel.app)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/revanapriyandi/github-readme-stats)
 ```
 
 ### Options
@@ -513,7 +516,7 @@ We use the following algorithm to calculate the languages percentages on the lan
 ranking_index = (byte_count ^ size_weight) * (repo_count ^ count_weight)
 ```
 
-By default, only the byte count is used for determining the languages percentages shown on the language card (i.e. `size_weight=1` and `count_weight=0`). You can, however, use the `&size_weight=` and `&count_weight=` options to weight the language usage calculation. The values must be positive real numbers. [More details about the algorithm can be found here](https://github-readme-stats-eight-phi-87.vercel.app/issues/1600#issuecomment-1046056305).
+By default, only the byte count is used for determining the languages percentages shown on the language card (i.e. `size_weight=1` and `count_weight=0`). You can, however, use the `&size_weight=` and `&count_weight=` options to weight the language usage calculation. The values must be positive real numbers. [More details about the algorithm can be found here](https://github.com/revanapriyandi/github-readme-stats/issues/1600#issuecomment-1046056305).
 
 *   `&size_weight=1&count_weight=0` - *(default)* Orders by byte count.
 *   `&size_weight=0.5&count_weight=0.5` - *(recommended)* Uses both byte and repo count for ranking
@@ -560,7 +563,7 @@ You can use the `&layout=compact` option to change the card design.
 You can use the `&layout=donut` option to change the card design.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github-readme-stats-eight-phi-87.vercel.app)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/revanapriyandi/github-readme-stats)
 ```
 
 ### Donut Vertical Chart Language Card Layout
@@ -568,7 +571,7 @@ You can use the `&layout=donut` option to change the card design.
 You can use the `&layout=donut-vertical` option to change the card design.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github-readme-stats-eight-phi-87.vercel.app)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/revanapriyandi/github-readme-stats)
 ```
 
 ### Pie Chart Language Card Layout
@@ -576,7 +579,7 @@ You can use the `&layout=donut-vertical` option to change the card design.
 You can use the `&layout=pie` option to change the card design.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github-readme-stats-eight-phi-87.vercel.app)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/revanapriyandi/github-readme-stats)
 ```
 
 ### Hide Progress Bars
@@ -606,15 +609,15 @@ You can use the `&stats_format=bytes` option to display the stats in bytes inste
 
 *   Donut Chart layout
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=donut)](https://github-readme-stats-eight-phi-87.vercel.app)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=donut)](https://github.com/revanapriyandi/github-readme-stats)
 
 *   Donut Vertical Chart layout
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=donut-vertical)](https://github-readme-stats-eight-phi-87.vercel.app)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=donut-vertical)](https://github.com/revanapriyandi/github-readme-stats)
 
 *   Pie Chart layout
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=pie)](https://github-readme-stats-eight-phi-87.vercel.app)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=pie)](https://github.com/revanapriyandi/github-readme-stats)
 
 *   Hidden progress bars
 
@@ -636,7 +639,7 @@ You can use the `&stats_format=bytes` option to display the stats in bytes inste
 Change the `?username=` value to your [WakaTime](https://wakatime.com) username.
 
 ```md
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github-readme-stats-eight-phi-87.vercel.app)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/revanapriyandi/github-readme-stats)
 ```
 
 ### Options
@@ -753,7 +756,7 @@ By default, GitHub does not lay out the cards side by side. To do that, you can 
 ### Stats and top languages cards
 
 ```html
-<a href="https://github-readme-stats-eight-phi-87.vercel.app">
+<a href="https://github.com/revanapriyandi/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
@@ -764,7 +767,7 @@ By default, GitHub does not lay out the cards side by side. To do that, you can 
 <details>
 <summary>:eyes: Show example</summary>
 
-<a href="https://github-readme-stats-eight-phi-87.vercel.app">
+<a href="https://github.com/revanapriyandi/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
@@ -776,7 +779,7 @@ By default, GitHub does not lay out the cards side by side. To do that, you can 
 ### Pinning repositories
 
 ```html
-<a href="https://github-readme-stats-eight-phi-87.vercel.app">
+<a href="https://github.com/revanapriyandi/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
@@ -787,7 +790,7 @@ By default, GitHub does not lay out the cards side by side. To do that, you can 
 <details>
 <summary>:eyes: Show example</summary>
 
-<a href="https://github-readme-stats-eight-phi-87.vercel.app">
+<a href="https://github.com/revanapriyandi/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
@@ -888,12 +891,12 @@ Selecting the right scopes for your token is important in case you want to displ
 Since the GitHub API only allows 5k requests per hour, my `https://github-readme-stats.vercel.app/api` could possibly hit the rate limiter. If you host it on your own Vercel server, then you do not have to worry about anything. Click on the deploy button to get started!
 
 > [!NOTE]
-> Since [#58](https://github-readme-stats-eight-phi-87.vercel.app/pull/58), we should be able to handle more than 5k requests and have fewer issues with downtime :grin:.
+> Since [#58](https://github.com/revanapriyandi/github-readme-stats/pull/58), we should be able to handle more than 5k requests and have fewer issues with downtime :grin:.
 
 > [!NOTE]
-> If you are on the [Pro (i.e. paid)](https://vercel.com/pricing) Vercel plan, the [maxDuration](https://vercel.com/docs/concepts/projects/project-configuration#value-definition) value found in the [vercel.json](https://github-readme-stats-eight-phi-87.vercel.app/blob/master/vercel.json) can be increased when your Vercel instance frequently times out during the card request. You are advised to keep this value lower than `30` seconds to prevent high memory usage.
+> If you are on the [Pro (i.e. paid)](https://vercel.com/pricing) Vercel plan, the [maxDuration](https://vercel.com/docs/concepts/projects/project-configuration#value-definition) value found in the [vercel.json](https://github.com/revanapriyandi/github-readme-stats/blob/master/vercel.json) can be increased when your Vercel instance frequently times out during the card request. You are advised to keep this value lower than `30` seconds to prevent high memory usage.
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github-readme-stats-eight-phi-87.vercel.app)
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/revanapriyandi/github-readme-stats)
 
 <details>
  <summary><b>:hammer_and_wrench: Step-by-step guide on setting up your own Vercel instance</b></summary>
@@ -920,17 +923,17 @@ Since the GitHub API only allows 5k requests per hour, my `https://github-readme
 ### On other platforms
 
 > [!WARNING]
-> This way of using GRS is not officially supported and was added to cater to some particular use cases where Vercel could not be used (e.g. [#2341](https://github-readme-stats-eight-phi-87.vercel.app/discussions/2341)). The support for this method, therefore, is limited.
+> This way of using GRS is not officially supported and was added to cater to some particular use cases where Vercel could not be used (e.g. [#2341](https://github.com/revanapriyandi/github-readme-stats/discussions/2341)). The support for this method, therefore, is limited.
 
 <details>
 <summary><b>:hammer_and_wrench: Step-by-step guide for deploying on other platforms</b></summary>
 
 1.  Fork or clone this repo as per your needs
 2.  Move `express` from the devDependencies to the dependencies section of `package.json`
-    <https://github-readme-stats-eight-phi-87.vercel.app/blob/ba7c2f8b55eac8452e479c8bd38b044d204d0424/package.json#L54-L61>
+    <https://github.com/revanapriyandi/github-readme-stats/blob/ba7c2f8b55eac8452e479c8bd38b044d204d0424/package.json#L54-L61>
 3.  Run `npm i` if needed (initial setup)
 4.  Run `node express.js` to start the server, or set the entry point to `express.js` in `package.json` if you're deploying on a managed service
-    <https://github-readme-stats-eight-phi-87.vercel.app/blob/ba7c2f8b55eac8452e479c8bd38b044d204d0424/package.json#L11>
+    <https://github.com/revanapriyandi/github-readme-stats/blob/ba7c2f8b55eac8452e479c8bd38b044d204d0424/package.json#L11>
 5.  You're done 🎉
     </details>
 
